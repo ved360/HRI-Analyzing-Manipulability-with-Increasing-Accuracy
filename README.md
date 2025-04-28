@@ -12,7 +12,7 @@ This project aims to investigate the relationship between motor learning and arm
 
 > **Experimental Setup**
 
-![alt text](https://drive.google.com/file/d/1uZHpHpr10IkmZY_aSMiDG8eycUtMZrtx/view?usp=sharing)
+![Experimental image](https://github.com/user-attachments/assets/2327182e-49b3-44e6-bbc4-0fd610687488)
 
 > **Results**
 
